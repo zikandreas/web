@@ -1,0 +1,180 @@
+form {
+	color: black;
+	border: 1px solid black;
+	margin-top: 2px;
+	margin-bottom: 20px;
+	margin-right: 400px;
+	margin-left: 500px;
+	padding-top: 1px;
+	padding-bottom: 15px;
+	padding-right: 30px;
+	padding-left: 30px;
+	background-color: lightblue;
+} 
+body {
+	font-family: Comic Sans MS;
+}
+h1 {
+	color: #E74C3C;
+	font-family: Impact;
+}
+h2 {
+	color: #E59866;
+	font-family: Impact;
+}
+h3 {
+	color: #C0392B;
+}
+ul li {
+  display: inline;
+  float: right;
+}
+ul li ul li{
+	display: none;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  position: fixed;
+}
+ul li a {
+  display: block;
+  color: #D4AC0D;
+  text-align: center;
+  padding: 13px 12px; 
+  margin-left: 38px;
+  margin-right: 40px;
+  text-decoration: none;
+  font-size: 20px;
+}
+ul li a:hover {
+  text-decoration: none;
+  font-size: 25px;
+  background-color: #EAF2F8;
+}
+ul li a:active {
+  text-decoration: underline;
+}
+table, th, td {
+  border: none;
+  background: none;
+ }
+table a {
+	text-decoration: none;
+}
+table a:link {
+  color: #4A235A;
+}
+table a:hover {
+  color: tomato;
+}
+table a:active {
+  color: #4A235A;
+}
+table a:visited {
+  text-decoration: none;
+}
+footer {
+	background-color: #A9CCE3;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	margin-right: 0px;
+	margin-left: 0px;
+	padding-top: 50px;
+	padding-bottom: 50px;
+	padding-right: 350px;
+	padding-left: 400px;
+	opacity: 0.9;
+}
+p a {
+	text-decoration: none;
+}
+p a:link {
+  color: #4A235A;
+}
+p a:hover {
+  color: tomato;
+}
+p a:active {
+  color: #4A235A;
+}
+p a:visited {
+  text-decoration: none;
+}
+button {
+  border: 5px outset;
+  border-radius: 5px; 
+  background-color: #F9E79F;
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+}
+button:active {
+  border: none;
+  padding-left: 25px;
+  padding-right: 25px;
+  padding-top: 25px;
+  padding-bottom: 25px;
+}
+.logo {
+	margin-top: 0px;
+	margin-bottom: 0px;
+	margin-right: 0px;
+	margin-left: 0px;
+	padding-top: 100px;
+	padding-bottom: 100px;
+	padding-right: 300px;
+	padding-left: 300px;
+}
+.h1a {
+	margin-top: 0px;
+	margin-bottom: 0px;
+	margin-right: 0px;
+	margin-left: 0px;
+	padding-top: 0px;
+	padding-bottom: 0px;
+	padding-right: 300px;
+	padding-left: 300px;
+	font-size: 30px;
+}
+.h2a {
+	margin-top: 0px;
+	margin-bottom: 0px;
+	margin-right: 0px;
+	margin-left: 0px;
+	padding-top: 0px;
+	padding-bottom: 0px;
+	padding-right: 250px;
+	padding-left: 350px;
+	font-size: 30px;
+}
+.index {
+	background-image: url('images/index wall.jpg');
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+}
+.form {
+	background-image: url('images/form wall.jpg');
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+}
+.button {
+	background-image: url('images/button wall.jpg');
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+}
+.code {
+	background-image: url('images/code wall.jpg');
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+}
+.illusions {
+	background-image: url('images/illusions wall.jpg');
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+}
