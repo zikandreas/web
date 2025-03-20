@@ -158,6 +158,15 @@ button:active {
 	background-repeat: no-repeat;
 	background-attachment: fixed;
 }
+.dice {
+	background-image: url('images/dice wall.jpg');
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+}
+.dice_area {
+    justify-content: center;
+    text-align: center;
+}
 .log_button {
 	color: white;
 	background-color: #512e5f;
